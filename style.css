@@ -11,3 +11,36 @@
  Tags:
  Text Domain:  maceli-landscaping
 */
+
+.navigation-top {
+  background-color: #8FCBB0;
+}
+
+.navigation-top a {
+  color: #FFFFFF;
+}
+
+#top-menu {
+  font-size: 18px;
+}
+
+footer {
+  background-color: #8FCBB0;
+}
+
+.textwidget h2, .textwidget h3, .textwidget h4 {
+  color: #FFFFFF;
+}
+
+.wpcf7 label {
+  color: #FFFFFF;
+}
+
+.footer-widget-2 {
+  float: none;
+  width: 100%;
+}
+
+.site-info {
+  display: none;
+}
