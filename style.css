@@ -12,6 +12,12 @@
  Text Domain:  maceli-landscaping
 */
 
+/*Homepage/Core Design*/
+
+body {
+  font-family: 'Oxygen', sans-serif;
+}
+
 .navigation-top {
   background-color: #8FCBB0;
 }
@@ -23,6 +29,22 @@
 #top-menu {
   font-size: 18px;
 }
+
+.menu-scroll-down {
+  display: none !important;
+}
+
+.panel-content .wrap {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.service-area-list li {
+  margin-left: 1em;
+  padding-left: 1em;
+}
+
+/*Footer*/
 
 footer {
   background-color: #8FCBB0;
