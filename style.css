@@ -44,6 +44,31 @@ body {
   padding-left: 1em;
 }
 
+.front-page-photo {
+  width: 100%;
+  border-radius: 40px;
+}
+
+.about-us-photo {
+  border-radius: 50%;
+}
+
+#post-54 .entry-header {
+  display: none;
+}
+
+/*Gallery CSS*/
+
+#post-78 .entry-title {
+  display: none;
+}
+
+.page-id-78 #content #primary, .page-id-78 #content .wrap {
+  margin-left: none !important;
+  margin-right: none !important;
+  max-width: 100% !important;
+}
+
 /*Footer*/
 
 footer {
@@ -54,10 +79,6 @@ footer {
   color: #FFFFFF;
 }
 
-.wpcf7 label {
-  color: #FFFFFF;
-}
-
 .footer-widget-2 {
   float: none;
   width: 100%;
@@ -65,4 +86,12 @@ footer {
 
 .site-info {
   display: none;
+}
+
+.wp-image-334 {
+  border-radius: 15px;
+}
+
+#zoom-social-icons-widget-2 h2 {
+  color: #FFFFFF;
 }
